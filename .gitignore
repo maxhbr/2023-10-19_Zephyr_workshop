@@ -1,0 +1,7 @@
+*
+!.gitignore
+!init.sh
+!oci-build.sh
+!/app/*
+!/docker/*
+!/docker/software/*
